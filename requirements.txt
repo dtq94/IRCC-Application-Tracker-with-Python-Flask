@@ -1,0 +1,6 @@
+flask
+boto3
+requests
+datetime
+os
+time
